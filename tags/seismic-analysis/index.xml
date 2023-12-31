@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>seismic analysis on Christian Malaga-Chuquitaype</title>
+    <link>https://CMalagaC.github.io/tags/seismic-analysis/</link>
+    <description>Recent content in seismic analysis on Christian Malaga-Chuquitaype</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://CMalagaC.github.io/tags/seismic-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenArch:An open-source package for determining the minimum-thickness of arches under seismic loads</title>
+      <link>https://CMalagaC.github.io/data/data2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://CMalagaC.github.io/data/data2/</guid>
+      <description>This repository contains the MatLab-based code called OpenArch for the design of optimal arch forms of minimum thickness subjected to seismic loads.</description>
+    </item>
+    
+  </channel>
+</rss>

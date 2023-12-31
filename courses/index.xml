@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Courses on Christian Malaga-Chuquitaype</title>
+    <link>https://CMalagaC.github.io/courses/</link>
+    <description>Recent content in Courses on Christian Malaga-Chuquitaype</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://CMalagaC.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building Resilient Structures (Imperial)</title>
+      <link>https://CMalagaC.github.io/courses/course3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://CMalagaC.github.io/courses/course3/</guid>
+      <description>This undergraduate course forms part of the I-Explore modules.</description>
+    </item>
+    
+    <item>
+      <title>Seismic Design of Steel Structures (Imperial)</title>
+      <link>https://CMalagaC.github.io/courses/course1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://CMalagaC.github.io/courses/course1/</guid>
+      <description>This graduate course introduces the principles of seismic design of steel structures.</description>
+    </item>
+    
+    <item>
+      <title>Structural Dynamics (Imperial)</title>
+      <link>https://CMalagaC.github.io/courses/course2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://CMalagaC.github.io/courses/course2/</guid>
+      <description>This undergraduate course covers the classical dynamics theory of SDOF.</description>
+    </item>
+    
+  </channel>
+</rss>

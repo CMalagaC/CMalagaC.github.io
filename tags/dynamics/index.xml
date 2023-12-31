@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>dynamics on Christian Malaga-Chuquitaype</title>
+    <link>https://CMalagaC.github.io/tags/dynamics/</link>
+    <description>Recent content in dynamics on Christian Malaga-Chuquitaype</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://CMalagaC.github.io/tags/dynamics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Structural Dynamics (Imperial)</title>
+      <link>https://CMalagaC.github.io/courses/course2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://CMalagaC.github.io/courses/course2/</guid>
+      <description>This undergraduate course covers the classical dynamics theory of SDOF.</description>
+    </item>
+    
+  </channel>
+</rss>
